@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+6,London -> Dublin,4.583333333333333,0.33010833333333334,Positive,12
+7,Santorini -> Athens,1.0909090909090908,-0.3515,Negative,11
+0,Amsterdam -> Dublin,3.25,0.12906250000000002,Neutral,8
+4,Edinburgh -> Stansted,2.6666666666666665,0.18905000000000002,Negative,6
+8,Stansted -> Athens,3.3333333333333335,-0.09501666666666665,Negative,6
+9,Stansted -> Rome,2.3333333333333335,0.05794999999999998,Negative,6
+1,Athens -> Thessaloniki,6.2,0.61288,Positive,5
+2,DUB -> LGW,6.0,0.09803999999999999,Positive,5
+3,Dublin -> London,1.4,-0.68758,Negative,5
+5,Lisbon -> Ponta Delgada,5.4,0.6248199999999999,Positive,5

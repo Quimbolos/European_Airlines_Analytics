@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+4,London -> Istanbul,3.7142857142857144,-0.1140857142857143,Negative,21
+2,Istanbul -> London,3.85,0.08138,Negative,20
+3,Istanbul -> Montreal,6.2,0.65941,Positive,10
+8,Singapore -> Istanbul,4.8,0.32643,Positive,10
+5,Los Angeles -> Istanbul,2.6666666666666665,-0.13895555555555555,Negative,9
+6,Montreal -> Istanbul,3.3333333333333335,-0.21498888888888887,Negative,9
+1,Istanbul -> Bangkok,4.75,-0.10148750000000001,Negative,8
+9,Toronto -> Istanbul,5.125,0.252725,Positive,8
+0,Athens -> Istanbul,3.142857142857143,0.4595285714285714,Positive,7
+7,New York -> Istanbul,1.4285714285714286,-0.6978714285714286,Negative,7

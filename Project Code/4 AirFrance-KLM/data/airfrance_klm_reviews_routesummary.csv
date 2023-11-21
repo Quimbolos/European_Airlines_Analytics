@@ -1,0 +1,31 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+0,Delhi -> Los Angeles -> Paris,7.666666666666667,0.9702333333333332,Positive,3
+1,Paris -> Johannesburg,2.6666666666666665,0.3715,Neutral,3
+2,Paris -> Los Angeles,1.0,-0.2959,Negative,3
+3,Johannesburg -> Paris,5.5,-0.08755,Negative,2
+4,Paris -> Amsterdam,2.5,-0.02045,Negative,2
+5,Paris -> Dubai,9.0,0.831,Positive,2
+6,Paris -> Montreal,5.5,0.0450499999999999,Negative,2
+7,Paris -> Vancouver,5.5,0.0474,Positive,2
+8,Prague -> Paris,5.5,0.0014,Positive,2
+9,nan -> nan,3.0,-0.6231,Negative,2
+10,London -> Amsterdam,4.5,0.1705857142857143,Positive,14
+11,Amsterdam -> Toronto,3.4444444444444446,0.2323888888888888,Negative,9
+12,Amsterdam -> Vancouver,3.555555555555556,0.3383666666666667,Positive,9
+13,Manchester -> Amsterdam,7.0,0.6567111111111111,Positive,9
+14,Amsterdam -> New York,4.875,0.628625,Positive,8
+15,Jakarta -> Kuala Lumpur,7.5,0.604125,Positive,8
+16,Amsterdam -> Helsinki,6.714285714285714,0.3778571428571428,Positive,7
+17,Amsterdam -> Singapore,3.571428571428572,0.2879857142857143,Positive,7
+18,Madrid -> Amsterdam,6.5,0.6387833333333334,Positive,6
+19,Singapore -> Denpasar,7.666666666666667,0.8285166666666667,Positive,6
+20,Amsterdam -> Innsbruck,4.666666666666667,0.3418333333333334,Positive,3
+21,Amsterdam -> Malaga,1.3333333333333333,-0.3694666666666666,Negative,3
+22,Innsbruck -> Amsterdam,2.0,-0.0486333333333333,Negative,3
+23,Amsterdam -> Pisa,4.0,0.45705,Negative,2
+24,Amsterdam -> Porto,5.5,0.0482999999999999,Negative,2
+25,Amsterdam -> Thessaloniki,1.0,-0.5892499999999999,Negative,2
+26,Dubai -> Amsterdam,5.5,0.0287999999999999,Negative,2
+27,Paris -> Lisbon,2.0,-0.0254,Negative,2
+28,Paris -> Seville,2.0,-0.7084999999999999,Negative,2
+29,Pisa -> Amsterdam,6.5,0.41085,Positive,2

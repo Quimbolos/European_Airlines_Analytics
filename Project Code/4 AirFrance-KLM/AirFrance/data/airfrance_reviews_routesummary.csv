@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+0,Delhi -> Los Angeles -> Paris,7.666666666666667,0.9702333333333333,Positive,3
+4,Paris -> Johannesburg,2.6666666666666665,0.3715,Neutral,3
+5,Paris -> Los Angeles,1.0,-0.2959,Negative,3
+1,Johannesburg -> Paris,5.5,-0.08755000000000002,Negative,2
+2,Paris -> Amsterdam,2.5,-0.020450000000000024,Negative,2
+3,Paris -> Dubai,9.0,0.831,Positive,2
+6,Paris -> Montreal,5.5,0.04504999999999998,Negative,2
+7,Paris -> Vancouver,5.5,0.0474,Positive,2
+8,Prague -> Paris,5.5,0.0014000000000000123,Positive,2
+9,nan -> nan,3.0,-0.6231,Negative,2

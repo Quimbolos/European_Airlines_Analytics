@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+9,Tel Aviv -> Moscow,3.857142857142857,0.07437142857142856,Negative,7
+1,Hong Kong -> Moscow,4.4,0.29388,Negative,5
+4,Moscow -> London,5.25,0.08882500000000002,Negative,4
+6,New York -> Moscow,6.0,0.33244999999999997,Negative,4
+7,New York -> Tel Aviv -> Moscow,1.75,-0.304975,Negative,4
+0,Brussels -> Moscow,8.666666666666666,0.8803333333333333,Positive,3
+2,London -> Moscow,8.0,0.9843333333333333,Positive,3
+3,Moscow -> Bangkok,4.0,0.6785666666666667,Positive,3
+5,Moscow -> Los Angeles,3.6666666666666665,0.41159999999999997,Positive,3
+8,Phuket -> Moscow,7.0,0.17113333333333336,Neutral,3

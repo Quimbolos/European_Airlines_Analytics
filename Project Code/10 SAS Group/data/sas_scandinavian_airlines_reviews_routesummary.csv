@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+5,London -> Stockholm,1.7777777777777777,-0.6008444444444445,Negative,9
+9,Stockholm -> London,2.75,-0.0525875,Negative,8
+1,Copenhagen -> Newark,4.857142857142857,0.7953714285714285,Positive,7
+3,London -> Copenhagen,3.7142857142857144,-0.05627142857142856,Negative,7
+0,Chicago -> Stockholm,3.8333333333333335,0.11296666666666667,Positive,6
+4,London -> Oslo,4.833333333333333,0.3841666666666667,Positive,6
+6,Los Angeles -> Copenhagen,1.8333333333333333,-0.13701666666666665,Negative,6
+2,Copenhagen -> Washington,3.6,-0.21074,Negative,5
+7,Manchester -> Stockholm,3.75,0.26492499999999997,Positive,4
+8,Newark -> Copenhagen,5.5,0.527175,Neutral,4

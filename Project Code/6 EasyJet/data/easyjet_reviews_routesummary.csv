@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+4,Lisbon -> Funchal,3.4285714285714284,0.11965714285714288,Negative,14
+0,Amsterdam -> London,2.5,-0.15594999999999998,Negative,10
+3,Funchal -> Lisbon,3.5,0.13884000000000002,Positive,10
+7,London -> Geneva,1.375,-0.1970375,Neutral,8
+1,Amsterdam -> Luton,4.714285714285714,0.10731428571428571,Negative,7
+5,London -> Amsterdam,1.4285714285714286,-0.5506142857142857,Negative,7
+6,London -> Berlin,3.0,0.142,Positive,7
+9,Venice -> Paris,2.2857142857142856,-0.015142857142857156,Negative,7
+8,Luton -> Amsterdam,2.8333333333333335,0.31013333333333337,Positive,6
+2,Belfast -> London,3.0,0.12036,Positive,5

@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+6,London -> Amsterdam,4.5,0.1705857142857143,Positive,14
+3,Amsterdam -> Toronto,3.4444444444444446,0.23238888888888887,Negative,9
+4,Amsterdam -> Vancouver,3.5555555555555554,0.3383666666666667,Positive,9
+8,Manchester -> Amsterdam,7.0,0.6567111111111111,Positive,9
+1,Amsterdam -> New York,4.875,0.628625,Positive,8
+5,Jakarta -> Kuala Lumpur,7.5,0.604125,Positive,8
+0,Amsterdam -> Helsinki,6.714285714285714,0.37785714285714284,Positive,7
+2,Amsterdam -> Singapore,3.5714285714285716,0.28798571428571434,Positive,7
+7,Madrid -> Amsterdam,6.5,0.6387833333333334,Positive,6
+9,Singapore -> Denpasar,7.666666666666667,0.8285166666666667,Positive,6

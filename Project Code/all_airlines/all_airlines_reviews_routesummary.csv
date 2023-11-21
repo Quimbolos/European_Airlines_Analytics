@@ -1,0 +1,131 @@
+index,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount,airline
+0,London -> Dublin,4.583333333333333,0.3301083333333333,Positive,12,Ryanair
+1,Santorini -> Athens,1.0909090909090908,-0.3515,Negative,11,Ryanair
+2,Amsterdam -> Dublin,3.25,0.1290625,Neutral,8,Ryanair
+3,Edinburgh -> Stansted,2.6666666666666665,0.18905,Negative,6,Ryanair
+4,Stansted -> Athens,3.333333333333333,-0.0950166666666666,Negative,6,Ryanair
+5,Stansted -> Rome,2.333333333333333,0.0579499999999999,Negative,6,Ryanair
+6,Athens -> Thessaloniki,6.2,0.61288,Positive,5,Ryanair
+7,DUB -> LGW,6.0,0.0980399999999999,Positive,5,Ryanair
+8,Dublin -> London,1.4,-0.68758,Negative,5,Ryanair
+9,Lisbon -> Ponta Delgada,5.4,0.6248199999999999,Positive,5,Ryanair
+0,London -> Frankfurt,5.285714285714286,0.5197428571428572,Positive,14,Lufthansa
+1,Singapore -> Frankfurt,4.5,0.201225,Positive,12,Lufthansa
+2,London -> Munich,2.636363636363636,-0.1516363636363636,Negative,11,Lufthansa
+3,Berlin -> Frankfurt,5.0,0.2999,Positive,9,Lufthansa
+4,Frankfurt -> Chicago,3.888888888888889,-0.0573777777777777,Negative,9,Lufthansa
+5,Frankfurt -> London,3.111111111111111,0.1846666666666666,Negative,9,Lufthansa
+6,nan -> nan,2.2222222222222223,-0.5123666666666666,Negative,9,Lufthansa
+7,Frankfurt -> Washington,2.125,0.0069375,Negative,8,Lufthansa
+8,Los Angeles -> Munich,3.375,0.3717375,Positive,8,Lufthansa
+9,Frankfurt -> Singapore,4.571428571428571,0.4102857142857142,Positive,7,Lufthansa
+0,London -> Madrid,4.666666666666667,-0.0516444444444444,Negative,9,International Airlines Group
+1,Madrid -> London,3.571428571428572,0.2069571428571428,Neutral,7,International Airlines Group
+2,Lisbon -> Madrid,5.0,0.2818166666666666,Positive,6,International Airlines Group
+3,Los Angeles -> Madrid,1.6666666666666667,-0.1335833333333333,Neutral,6,International Airlines Group
+4,Buenos Aires -> Madrid,5.0,0.06412,Positive,5,International Airlines Group
+5,Madrid -> Chicago,5.0,0.718575,Positive,4,International Airlines Group
+6,Madrid -> Los Angeles,3.5,-0.256725,Negative,4,International Airlines Group
+7,Madrid -> Miami,3.25,0.3088,Positive,4,International Airlines Group
+8,Madrid -> New York,2.0,-0.28485,Negative,4,International Airlines Group
+9,Miami -> Madrid,5.666666666666667,0.6149333333333334,Positive,3,International Airlines Group
+10,London -> Johannesburg,5.777777777777778,0.4757944444444444,Positive,18,International Airlines Group
+11,London -> Malaga,4.055555555555555,0.1338388888888888,Positive,18,International Airlines Group
+12,London -> Cape Town,3.764705882352941,0.4361941176470588,Positive,17,International Airlines Group
+13,Johannesburg -> London,4.0,0.1637666666666666,Negative,15,International Airlines Group
+14,Madrid -> London,4.733333333333333,0.1753866666666666,Negative,15,International Airlines Group
+15,Cape Town -> London,4.307692307692308,0.3191153846153846,Positive,13,International Airlines Group
+16,London -> Dubai,3.692307692307693,0.1819461538461538,Positive,13,International Airlines Group
+17,Los Angeles -> London,3.230769230769231,-0.1909230769230769,Negative,13,International Airlines Group
+18,London -> Hong Kong,4.583333333333333,0.1357,Negative,12,International Airlines Group
+19,Vancouver -> London,7.333333333333333,0.8164916666666667,Positive,12,International Airlines Group
+0,Delhi -> Los Angeles -> Paris,7.666666666666667,0.9702333333333332,Positive,3,AirFrance-KLM
+1,Paris -> Johannesburg,2.6666666666666665,0.3715,Neutral,3,AirFrance-KLM
+2,Paris -> Los Angeles,1.0,-0.2959,Negative,3,AirFrance-KLM
+3,Johannesburg -> Paris,5.5,-0.08755,Negative,2,AirFrance-KLM
+4,Paris -> Amsterdam,2.5,-0.02045,Negative,2,AirFrance-KLM
+5,Paris -> Dubai,9.0,0.831,Positive,2,AirFrance-KLM
+6,Paris -> Montreal,5.5,0.0450499999999999,Negative,2,AirFrance-KLM
+7,Paris -> Vancouver,5.5,0.0474,Positive,2,AirFrance-KLM
+8,Prague -> Paris,5.5,0.0014,Positive,2,AirFrance-KLM
+9,nan -> nan,3.0,-0.6231,Negative,2,AirFrance-KLM
+10,London -> Amsterdam,4.5,0.1705857142857143,Positive,14,AirFrance-KLM
+11,Amsterdam -> Toronto,3.4444444444444446,0.2323888888888888,Negative,9,AirFrance-KLM
+12,Amsterdam -> Vancouver,3.555555555555556,0.3383666666666667,Positive,9,AirFrance-KLM
+13,Manchester -> Amsterdam,7.0,0.6567111111111111,Positive,9,AirFrance-KLM
+14,Amsterdam -> New York,4.875,0.628625,Positive,8,AirFrance-KLM
+15,Jakarta -> Kuala Lumpur,7.5,0.604125,Positive,8,AirFrance-KLM
+16,Amsterdam -> Helsinki,6.714285714285714,0.3778571428571428,Positive,7,AirFrance-KLM
+17,Amsterdam -> Singapore,3.571428571428572,0.2879857142857143,Positive,7,AirFrance-KLM
+18,Madrid -> Amsterdam,6.5,0.6387833333333334,Positive,6,AirFrance-KLM
+19,Singapore -> Denpasar,7.666666666666667,0.8285166666666667,Positive,6,AirFrance-KLM
+20,Amsterdam -> Innsbruck,4.666666666666667,0.3418333333333334,Positive,3,AirFrance-KLM
+21,Amsterdam -> Malaga,1.3333333333333333,-0.3694666666666666,Negative,3,AirFrance-KLM
+22,Innsbruck -> Amsterdam,2.0,-0.0486333333333333,Negative,3,AirFrance-KLM
+23,Amsterdam -> Pisa,4.0,0.45705,Negative,2,AirFrance-KLM
+24,Amsterdam -> Porto,5.5,0.0482999999999999,Negative,2,AirFrance-KLM
+25,Amsterdam -> Thessaloniki,1.0,-0.5892499999999999,Negative,2,AirFrance-KLM
+26,Dubai -> Amsterdam,5.5,0.0287999999999999,Negative,2,AirFrance-KLM
+27,Paris -> Lisbon,2.0,-0.0254,Negative,2,AirFrance-KLM
+28,Paris -> Seville,2.0,-0.7084999999999999,Negative,2,AirFrance-KLM
+29,Pisa -> Amsterdam,6.5,0.41085,Positive,2,AirFrance-KLM
+0,London -> Istanbul,3.7142857142857135,-0.1140857142857143,Negative,21,Turkish Airlines
+1,Istanbul -> London,3.85,0.08138,Negative,20,Turkish Airlines
+2,Istanbul -> Montreal,6.2,0.65941,Positive,10,Turkish Airlines
+3,Singapore -> Istanbul,4.8,0.32643,Positive,10,Turkish Airlines
+4,Los Angeles -> Istanbul,2.6666666666666665,-0.1389555555555555,Negative,9,Turkish Airlines
+5,Montreal -> Istanbul,3.333333333333333,-0.2149888888888888,Negative,9,Turkish Airlines
+6,Istanbul -> Bangkok,4.75,-0.1014875,Negative,8,Turkish Airlines
+7,Toronto -> Istanbul,5.125,0.252725,Positive,8,Turkish Airlines
+8,Athens -> Istanbul,3.142857142857143,0.4595285714285714,Positive,7,Turkish Airlines
+9,New York -> Istanbul,1.4285714285714286,-0.6978714285714286,Negative,7,Turkish Airlines
+0,Lisbon -> Funchal,3.4285714285714284,0.1196571428571428,Negative,14,EasyJet
+1,Amsterdam -> London,2.5,-0.1559499999999999,Negative,10,EasyJet
+2,Funchal -> Lisbon,3.5,0.13884,Positive,10,EasyJet
+3,London -> Geneva,1.375,-0.1970375,Neutral,8,EasyJet
+4,Amsterdam -> Luton,4.714285714285714,0.1073142857142857,Negative,7,EasyJet
+5,London -> Amsterdam,1.4285714285714286,-0.5506142857142857,Negative,7,EasyJet
+6,London -> Berlin,3.0,0.142,Positive,7,EasyJet
+7,Venice -> Paris,2.2857142857142856,-0.0151428571428571,Negative,7,EasyJet
+8,Luton -> Amsterdam,2.833333333333333,0.3101333333333333,Positive,6,EasyJet
+9,Belfast -> London,3.0,0.12036,Positive,5,EasyJet
+0,Luton -> Budapest,1.6842105263157894,0.0996894736842105,Positive,19,WizzAir
+1,Luton -> Larnaca,1.4705882352941178,-0.2625705882352941,Negative,17,WizzAir
+2,Budapest -> London,1.6,-0.3488466666666667,Negative,15,WizzAir
+3,Luton -> Athens,4.307692307692308,-0.0502923076923076,Negative,13,WizzAir
+4,nan -> nan,1.8333333333333333,-0.0530499999999999,Negative,12,WizzAir
+5,Budapest -> Luton,2.6,0.01447,Negative,10,WizzAir
+6,Luton -> Bucharest,2.111111111111111,0.1677555555555555,Negative,9,WizzAir
+7,Budapest -> Athens,3.25,-0.0946,Negative,8,WizzAir
+8,London -> Athens,2.875,-0.4773125,Negative,8,WizzAir
+9,Bucharest -> Luton,2.2857142857142856,-0.3222857142857143,Negative,7,WizzAir
+0,Tel Aviv -> Moscow,3.857142857142857,0.0743714285714285,Negative,7,Aeroflot Group
+1,Hong Kong -> Moscow,4.4,0.29388,Negative,5,Aeroflot Group
+2,Moscow -> London,5.25,0.088825,Negative,4,Aeroflot Group
+3,New York -> Moscow,6.0,0.3324499999999999,Negative,4,Aeroflot Group
+4,New York -> Tel Aviv -> Moscow,1.75,-0.304975,Negative,4,Aeroflot Group
+5,Brussels -> Moscow,8.666666666666666,0.8803333333333333,Positive,3,Aeroflot Group
+6,London -> Moscow,8.0,0.9843333333333332,Positive,3,Aeroflot Group
+7,Moscow -> Bangkok,4.0,0.6785666666666667,Positive,3,Aeroflot Group
+8,Moscow -> Los Angeles,3.6666666666666665,0.4115999999999999,Positive,3,Aeroflot Group
+9,Phuket -> Moscow,7.0,0.1711333333333333,Neutral,3,Aeroflot Group
+0,Amsterdam -> Istanbul,1.5,-0.2791749999999999,Negative,4,Pegasus Airlines
+1,Beirut -> Istanbul,2.333333333333333,-0.3802,Negative,3,Pegasus Airlines
+2,Dubai -> Istanbul,4.0,0.1933,Positive,3,Pegasus Airlines
+3,Istanbul -> Beirut,1.0,-0.6522,Negative,3,Pegasus Airlines
+4,Istanbul -> Dubai,2.333333333333333,-0.1309333333333333,Negative,3,Pegasus Airlines
+5,Istanbul -> London,1.6666666666666667,0.1154666666666666,Positive,3,Pegasus Airlines
+6,Istanbul -> Stansted,1.0,-0.4032,Negative,3,Pegasus Airlines
+7,London -> Istanbul,1.0,-0.6205333333333333,Negative,3,Pegasus Airlines
+8,Amsterdam -> Beirut -> Istanbul,1.5,-0.66855,Negative,2,Pegasus Airlines
+9,Antalya -> Istanbul,1.0,-0.65205,Negative,2,Pegasus Airlines
+0,London -> Stockholm,1.7777777777777777,-0.6008444444444445,Negative,9,SAS Group
+1,Stockholm -> London,2.75,-0.0525875,Negative,8,SAS Group
+2,Copenhagen -> Newark,4.857142857142857,0.7953714285714285,Positive,7,SAS Group
+3,London -> Copenhagen,3.7142857142857135,-0.0562714285714285,Negative,7,SAS Group
+4,Chicago -> Stockholm,3.8333333333333335,0.1129666666666666,Positive,6,SAS Group
+5,London -> Oslo,4.833333333333333,0.3841666666666667,Positive,6,SAS Group
+6,Los Angeles -> Copenhagen,1.8333333333333333,-0.1370166666666666,Negative,6,SAS Group
+7,Copenhagen -> Washington,3.6,-0.21074,Negative,5,SAS Group
+8,Manchester -> Stockholm,3.75,0.2649249999999999,Positive,4,SAS Group
+9,Newark -> Copenhagen,5.5,0.527175,Neutral,4,SAS Group

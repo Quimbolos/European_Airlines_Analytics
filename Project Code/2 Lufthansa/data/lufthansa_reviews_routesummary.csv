@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+5,London -> Frankfurt,5.285714285714286,0.5197428571428572,Positive,14
+8,Singapore -> Frankfurt,4.5,0.201225,Positive,12
+6,London -> Munich,2.6363636363636362,-0.1516363636363636,Negative,11
+0,Berlin -> Frankfurt,5.0,0.2999,Positive,9
+1,Frankfurt -> Chicago,3.888888888888889,-0.057377777777777764,Negative,9
+2,Frankfurt -> London,3.111111111111111,0.18466666666666665,Negative,9
+9,nan -> nan,2.2222222222222223,-0.5123666666666666,Negative,9
+4,Frankfurt -> Washington,2.125,0.006937500000000013,Negative,8
+7,Los Angeles -> Munich,3.375,0.3717375,Positive,8
+3,Frankfurt -> Singapore,4.571428571428571,0.41028571428571425,Positive,7

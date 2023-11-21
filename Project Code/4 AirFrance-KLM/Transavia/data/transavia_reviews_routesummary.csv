@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+0,Amsterdam -> Innsbruck,4.666666666666667,0.3418333333333334,Positive,3
+1,Amsterdam -> Malaga,1.3333333333333333,-0.36946666666666667,Negative,3
+6,Innsbruck -> Amsterdam,2.0,-0.04863333333333334,Negative,3
+2,Amsterdam -> Pisa,4.0,0.45705,Negative,2
+3,Amsterdam -> Porto,5.5,0.048299999999999954,Negative,2
+4,Amsterdam -> Thessaloniki,1.0,-0.5892499999999999,Negative,2
+5,Dubai -> Amsterdam,5.5,0.028799999999999992,Negative,2
+7,Paris -> Lisbon,2.0,-0.0254,Negative,2
+8,Paris -> Seville,2.0,-0.7084999999999999,Negative,2
+9,Pisa -> Amsterdam,6.5,0.41085,Positive,2

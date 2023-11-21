@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+1,Amsterdam -> Istanbul,1.5,-0.27917499999999995,Negative,4
+3,Beirut -> Istanbul,2.3333333333333335,-0.38020000000000004,Negative,3
+4,Dubai -> Istanbul,4.0,0.19330000000000003,Positive,3
+5,Istanbul -> Beirut,1.0,-0.6522,Negative,3
+6,Istanbul -> Dubai,2.3333333333333335,-0.13093333333333335,Negative,3
+7,Istanbul -> London,1.6666666666666667,0.11546666666666668,Positive,3
+8,Istanbul -> Stansted,1.0,-0.4032,Negative,3
+9,London -> Istanbul,1.0,-0.6205333333333333,Negative,3
+0,Amsterdam -> Beirut -> Istanbul,1.5,-0.66855,Negative,2
+2,Antalya -> Istanbul,1.0,-0.65205,Negative,2

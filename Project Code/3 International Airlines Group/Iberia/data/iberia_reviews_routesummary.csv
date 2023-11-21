@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+2,London -> Madrid,4.666666666666667,-0.05164444444444446,Negative,9
+5,Madrid -> London,3.5714285714285716,0.20695714285714287,Neutral,7
+1,Lisbon -> Madrid,5.0,0.28181666666666666,Positive,6
+3,Los Angeles -> Madrid,1.6666666666666667,-0.13358333333333333,Neutral,6
+0,Buenos Aires -> Madrid,5.0,0.06412,Positive,5
+4,Madrid -> Chicago,5.0,0.718575,Positive,4
+6,Madrid -> Los Angeles,3.5,-0.256725,Negative,4
+7,Madrid -> Miami,3.25,0.3088,Positive,4
+8,Madrid -> New York,2.0,-0.28485000000000005,Negative,4
+9,Miami -> Madrid,5.666666666666667,0.6149333333333334,Positive,3

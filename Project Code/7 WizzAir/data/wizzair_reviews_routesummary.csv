@@ -1,0 +1,11 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+7,Luton -> Budapest,1.6842105263157894,0.09968947368421052,Positive,19
+8,Luton -> Larnaca,1.4705882352941178,-0.2625705882352941,Negative,17
+2,Budapest -> London,1.6,-0.3488466666666667,Negative,15
+5,Luton -> Athens,4.3076923076923075,-0.050292307692307685,Negative,13
+9,nan -> nan,1.8333333333333333,-0.05304999999999999,Negative,12
+3,Budapest -> Luton,2.6,0.01447000000000001,Negative,10
+6,Luton -> Bucharest,2.111111111111111,0.16775555555555555,Negative,9
+1,Budapest -> Athens,3.25,-0.0946,Negative,8
+4,London -> Athens,2.875,-0.47731250000000003,Negative,8
+0,Bucharest -> Luton,2.2857142857142856,-0.32228571428571434,Negative,7

@@ -1,0 +1,21 @@
+,Route,MeanRating,MeanSentimentScore,DominantSentiment,RouteCount
+0,London -> Madrid,4.666666666666667,-0.0516444444444444,Negative,9
+1,Madrid -> London,3.571428571428572,0.2069571428571428,Neutral,7
+2,Lisbon -> Madrid,5.0,0.2818166666666666,Positive,6
+3,Los Angeles -> Madrid,1.6666666666666667,-0.1335833333333333,Neutral,6
+4,Buenos Aires -> Madrid,5.0,0.06412,Positive,5
+5,Madrid -> Chicago,5.0,0.718575,Positive,4
+6,Madrid -> Los Angeles,3.5,-0.256725,Negative,4
+7,Madrid -> Miami,3.25,0.3088,Positive,4
+8,Madrid -> New York,2.0,-0.28485,Negative,4
+9,Miami -> Madrid,5.666666666666667,0.6149333333333334,Positive,3
+10,London -> Johannesburg,5.777777777777778,0.4757944444444444,Positive,18
+11,London -> Malaga,4.055555555555555,0.1338388888888888,Positive,18
+12,London -> Cape Town,3.764705882352941,0.4361941176470588,Positive,17
+13,Johannesburg -> London,4.0,0.1637666666666666,Negative,15
+14,Madrid -> London,4.733333333333333,0.1753866666666666,Negative,15
+15,Cape Town -> London,4.307692307692308,0.3191153846153846,Positive,13
+16,London -> Dubai,3.692307692307693,0.1819461538461538,Positive,13
+17,Los Angeles -> London,3.230769230769231,-0.1909230769230769,Negative,13
+18,London -> Hong Kong,4.583333333333333,0.1357,Negative,12
+19,Vancouver -> London,7.333333333333333,0.8164916666666667,Positive,12
